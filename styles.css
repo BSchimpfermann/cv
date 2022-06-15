@@ -1,0 +1,13 @@
+body {background-color:#1B2430; 
+     color: rgb(209, 205, 205);
+     font-family: arial
+}
+hr {
+  background-color: #EEEEEE;
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+}
+h2 {color: white}
+h1 {color:white}
+img {height: 210px;}
